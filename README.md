@@ -2,7 +2,7 @@ Olá, eu sou a Yasmin Santana Viana! 👋
 
 Sou estudante de Ciência da Computação apaixonada por engenharia de software, com o objetivo de aprofundar meus conhecimentos e aplicar minhas habilidades em projetos práticos.
 
-- 👩🏻‍💻 Estudante da Ciência da Computação.
+- 👩🏻‍💻 Estudante de Ciência da Computação.
 
 - 📫 Meus contatos
 
